@@ -315,6 +315,7 @@ const handlePlantsClick = (e) => {
         
  ) :  (
     <CartItem onContinueShopping={handleContinueShopping}/>
+
 )}
     </div>
     );
